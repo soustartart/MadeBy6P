@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+.first{
+    width: 800px;
+    height: 1500px;
+    background-color: rgba(0, 255, 255, 0.342);
+    margin: 20px auto;
+    padding: 20px;
+}
+body{
+    background-image: url("https://i.pinimg.com/originals/61/49/d8/6149d8b9b80d8db1801a87bbd152865e.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav{
+    height: 50px;
+    background-color: whitesmoke;
+}
+a{
+    padding: 15px;
+    line-height: 50px;
+    color: black;
+    text-decoration: none;
+}
+.second{
+    border: 2px dotted black;
+    padding: 20px;
+    margin: 20px;
+}
+.third{
+    border: 2px dotted black;
+    padding: 20px;
+    margin: 20px;
+}
+img{
+    float: left;
+    width: 200px;
+}
